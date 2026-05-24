@@ -1,0 +1,17 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "ssh": "Disabled",
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "Local Instance MySQL80",
+            "database": "olist_project",
+            "username": "root"
+        }
+    ]
+}
