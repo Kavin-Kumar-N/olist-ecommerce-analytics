@@ -6,12 +6,14 @@
                 "enableSsl": "Disabled"
             },
             "ssh": "Disabled",
+            "previewLimit": 50,
             "server": "localhost",
             "port": 3306,
             "driver": "MySQL",
-            "name": "Local Instance MySQL80",
+            "name": "OlistDB",
             "database": "olist_project",
-            "username": "root"
+            "username": "root",
+            "password": "root"
         }
     ]
 }
